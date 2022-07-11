@@ -1,0 +1,101 @@
+html {
+   background-color: #f2e3f0;
+    --color-primary-dark: #6d0560;
+    --color-secondary: #f89eec;
+    --color-error: red;
+    --color-success:blue; 
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #545454;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+    background-image: url(screenshots/Screen%20Shot%202022-07-11%20at%2010.20.09%20AM.png);
+    background-size: cover;
+    max-width: 800px;
+    padding: 2em 2em 4em;
+}
+
+.BIO {
+    width: 600px;
+    max-width: 400px;
+    margin: 1rem;
+    padding: 2rem;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.2);
+    border-radius: var(--border-radius);
+    background: #ffff;
+}
+
+.pivot {
+    width: 400px;
+    max-width: 400px;
+    margin: 1rem;
+    padding: 2rem;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.2);
+    border-radius: var(--border-radius);
+    background: #ffff;
+}
+
+.LIST {
+    width: 400px;
+    max-width: 400px;
+    margin: 1rem;
+    padding: 2rem;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.2);
+    border-radius: var(--border-radius);
+    background: #ffff;
+}
+
+.contact {
+    width: 400px;
+    max-width: 400px;
+    margin: 1rem;
+    padding: 2rem;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.2);
+    border-radius: var(--border-radius);
+    background: #ffff;
+}
+
+.SLP {
+    width: 400px;
+    max-width: 400px;
+    margin: 1rem;
+    padding: 2rem;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.2);
+    border-radius: var(--border-radius);
+    background: #ffff;
+}
+.IMAGE {
+    width: 400px;
+    max-width: 400px;
+    margin: 1rem;
+    padding: 2rem;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.2);
+    border-radius: var(--border-radius);
+}
+
+.GULLAHIMAGE {
+    width: 400px;
+    max-width: 400px;
+    margin: 1rem;
+    padding: 2rem;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.2);
+    border-radius: var(--border-radius);
+}
+
+.GULLAH {
+    background-color: #ffffff;
+    --color-primary-dark: #6d0560;
+    --color-secondary: #f89eec;
+    --color-error: red;
+    --color-success:blue; 
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #545454;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+    background-size: cover;
+    max-width: 800px;
+    padding: 2em 2em 4em;
+}
